@@ -1,14 +1,13 @@
 body {
-  --bg: #000000;
-  --fg: #FFFFFF;
+  --bg: #FFFFFF;
+  --fg: #000000;
 }
 .App {
-
- background-image: url("./sparklestars.gif");
  background-color: var(--bg);
  color: var(--fg);
  width: 100vw;
  height:100vh;
+ padding: 20px;
 
 }
 .App h1 {
